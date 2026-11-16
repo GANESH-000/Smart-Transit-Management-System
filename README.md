@@ -1,2 +1,2 @@
 # Smart-Transit-Management-System
-Centralized bus operation built on servicenow platform
+Centralized bus operations built on servicenow platform
